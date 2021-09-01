@@ -70,14 +70,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="sections_group">
                     <div class="entry-content">
 
-                      <div class="section mcb-section" style="padding-top:20px; padding-bottom:20px; background-color:#f2c64d">
+                      <div class="section mcb-section" style="padding-top:20px; padding-bottom:20px; background-color:#white">
                           <div class="section_wrapper mcb-section-inner">
                               <div class="wrap mcb-wrap one  column-margin-20px valign-top clearfix">
                                   <div class="mcb-wrap-inner">
                                         <div class="column_attr clearfix" style="text-align: center; color:white !important;">
-                                            <h2 style="color:white !important;"> Cuentenos su caso</h2>
-                                            <h3 style="color: #fff; margin: 0;"><i class="icon-phone"></i><a style="color:white !important; text-decoration: underline;" href="tel:+573203060653">320 306 06 53</a> - <a style="color:white !important; text-decoration: underline;" href="tel:+573103087636">310 308 76 36</a></h3>
-                                            <h3 style="color: #fff; margin: 0;"><i class="icon-phone"></i><a style="color:white !important;text-decoration: underline; " href="tel:+578666886">(8) 666886</a></h3>
+                                            <h2 style="color:black !important;"> Cuéntenos su caso</h2>
+                                            <h3 style="color: #black !important; margin: 0;"><i class="icon-phone"></i><a style="color:black !important; text-decoration: underline;" href="tel:+573203060653">320 306 06 53</a> - <a style="color:black !important; text-decoration: underline;" href="tel:+573103087636">310 308 76 36</a></h3>
+                                            <h3 style="color: #black !important; margin: 0;"><i class="icon-phone"></i><a style="color:black !important;text-decoration: underline; " href="tel:+578666886">(8) 666886</a></h3>
                                         </div>
                                   </div>
                               </div>
@@ -101,13 +101,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
 
-                        <div class="section mcb-section" style="padding-top:60px; padding-bottom:40px; background-color:#f2c64d">
+                        <div class="section mcb-section" style="padding-top:60px; padding-bottom:40px; background-color:#white">
                             <div class="section_wrapper mcb-section-inner">
                                 <div class="wrap mcb-wrap one  column-margin-20px valign-top clearfix">
                                     <div class="mcb-wrap-inner">
 
                                           <div class="column_attr clearfix" style="text-align: center; color:white !important;">
-                                              <h2 style="color:white !important;">Calle  46 # 16-24 oficina 408 torre empresarial centro comercial san juan plaza Neiva - Huila</h2>
+                                              <h2 style="color:black !important;">Calle  46 # 16-24 oficina 408 Torre Empresarial Centro Comercial San Juan Plaza Neiva - Huila</h2>
                                           </div>
 
                                     </div>

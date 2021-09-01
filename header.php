@@ -7,7 +7,7 @@
                   <nav style=""id="social-menu" class="menu-secondary-menu-container">
                       <ul id="menu-secondary-menu" class=" contact_details">
                         <li class="slogan">
-                            Tienes alguna duda?
+                            Abogados en Neiva Huila
                         </li>
                         <li class="phone">
                             <i class="icon-phone"></i><a style="text-decoration: underline;" href="tel:+573203060653">320 306 06 53</a> - <a style="text-decoration: underline;" href="tel:+573103087636">310 308 76 36</a>
@@ -53,7 +53,7 @@
                                               <a href="losabogados.php"><span>Abogados</span></a>
                                           </li>
                                           <li>
-                                              <a href="actualidad_juridica.php"><span>Actualidad Juridica</span></a>
+                                              <a href="actualidad_juridica.php"><span>Actualidad Jurídica</span></a>
                                           </li>
                                           <li>
                                               <a href="contacto.php"><span>Contacto</span></a>

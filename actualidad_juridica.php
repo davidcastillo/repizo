@@ -93,6 +93,45 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </div>
                                             <div class="image_frame post-photo-wrapper scale-with-grid">
                                                 <div >
+                                                    <a href="Todo_lo_que_debe_saber_sobre_el_uso_de_la_plataforma_PayPal.php">
+                                                        <div class="mask"></div><img width="576" height="450" src="images/metodosDePago.jpg" class="scale-with-grid wp-post-image" alt="beauty_portfolio_2" />
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="post-desc-wrapper">
+                                                <div class="post-desc">
+                                                    <div class="post-meta clearfix">
+                                                        <div class="author-date">
+                                                            <span class="author"><span>Publicado por </span><i class="icon-user"></i> <a href="#">Admin</a>
+                                                            </span><span class="date"><span> el </span><i class="icon-clock"></i> Julio 22, 2021</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-title">
+                                                        <h2 class="entry-title"><a href="Todo_lo_que_debe_saber_sobre_el_uso_de_la_plataforma_PayPal.php">Todo lo que debe saber sobre el uso de la plataforma PayPal</a></h2>
+                                                    </div>
+                                                    <div class="post-excerpt">
+                                                    </div>
+                                                    <div class="post-footer">
+                                                        <div class="button-love">
+                                                            <span class="icons-wrapper"></span></a>
+                                                        </div>
+                                                        <div class="post-links">
+                                                            <i class="icon-doc-text"></i><a href="Todo_lo_que_debe_saber_sobre_el_uso_de_la_plataforma_PayPal.php" class="post-more">Leer Mas</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <!--THUMBNAIL END-->
+                                    
+                                    
+                                    <!--THUMBNAIL START -->
+                                    <div class="post-175 post  format-standard has-post-thumbnail  category-motion category-photography category-uncategorized tag-eclipse tag-grid tag-mysql post-item isotope-item clearfix">
+                                            <div class="date_label">
+                                                Jun 17, 2021
+                                            </div>
+                                            <div class="image_frame post-photo-wrapper scale-with-grid">
+                                                <div >
                                                     <a href="Todo_lo_que_debe_saber_sobre_documentos_y_pliegos_tipo_en_la_contratación_estatal.php">
                                                         <div class="mask"></div><img width="576" height="450" src="images/documentos_contratación_abogados_huila.jpg" class="scale-with-grid wp-post-image" alt="beauty_portfolio_2" />
                                                     </a>
